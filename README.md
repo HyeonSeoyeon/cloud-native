@@ -1,5 +1,5 @@
 # 설치 및 실행 (Installation & Execution Guide)
-[!https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb7owax%2FdJMcacO223l%2FAAAAAAAAAAAAAAAAAAAAAEebaf3WytqW2IsgIgr_mwzzau4CKrgKFhr1OqouX6s-%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DFY3GU2my0kqzyqm6jVIC5eRlwdA%253D]
+!(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb7owax%2FdJMcacO223l%2FAAAAAAAAAAAAAAAAAAAAAEebaf3WytqW2IsgIgr_mwzzau4CKrgKFhr1OqouX6s-%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DFY3GU2my0kqzyqm6jVIC5eRlwdA%253D)
 
 (1) PC 사전 준비 사항
   ① Docker 엔진
